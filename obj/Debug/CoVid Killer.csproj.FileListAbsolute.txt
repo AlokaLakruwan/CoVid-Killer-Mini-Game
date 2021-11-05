@@ -1,0 +1,9 @@
+D:\UVT\Semester 2\Sem 2 Notes\Visual Programming\CoVid Killer\CoVid Killer\bin\Debug\CoVid Killer.exe.config
+D:\UVT\Semester 2\Sem 2 Notes\Visual Programming\CoVid Killer\CoVid Killer\obj\Debug\CoVid_Killer.Form1.resources
+D:\UVT\Semester 2\Sem 2 Notes\Visual Programming\CoVid Killer\CoVid Killer\obj\Debug\CoVid_Killer.Properties.Resources.resources
+D:\UVT\Semester 2\Sem 2 Notes\Visual Programming\CoVid Killer\CoVid Killer\obj\Debug\CoVid Killer.csproj.GenerateResource.Cache
+D:\UVT\Semester 2\Sem 2 Notes\Visual Programming\CoVid Killer\CoVid Killer\bin\Debug\CoVid Killer.exe
+D:\UVT\Semester 2\Sem 2 Notes\Visual Programming\CoVid Killer\CoVid Killer\bin\Debug\CoVid Killer.pdb
+D:\UVT\Semester 2\Sem 2 Notes\Visual Programming\CoVid Killer\CoVid Killer\obj\Debug\CoVid Killer.exe
+D:\UVT\Semester 2\Sem 2 Notes\Visual Programming\CoVid Killer\CoVid Killer\obj\Debug\CoVid Killer.pdb
+D:\UVT\Semester 2\Sem 2 Notes\Visual Programming\CoVid Killer\CoVid Killer\obj\Debug\CoVid Killer.csprojResolveAssemblyReference.cache
